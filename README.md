@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mentalbreaker/mentalbreaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +15,7 @@ Here are some ideas to get you started:
 
 
 # Lee Seula
+#junior #frontend #responsive_web #design
 ### Learning About
 ![](http://img.shields.io/badge/-<html>-e34f26?style=for-the-badge&logo=)
 ![](http://img.shields.io/badge/-{css}-1572B6?style=for-the-badge&logo=)
