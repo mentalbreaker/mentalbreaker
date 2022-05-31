@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
+
 # Lee Seula
 ### Learning About
 ![](http://img.shields.io/badge/-<html>-e34f26?style=for-the-badge&logo=)
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![](http://img.shields.io/badge/-Mysql-4479A1?style=for-the-badge&logo=)
 ![](http://img.shields.io/badge/-aws-232F3E?style=for-the-badge&logo=)
 ![](http://img.shields.io/badge/-docker-2496ED?style=for-the-badge&logo=)
-</div>
+
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/mentalbreacker/github-readme-stats)
