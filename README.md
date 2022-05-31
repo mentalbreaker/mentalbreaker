@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![](http://img.shields.io/badge/-:typescript-3178C6?style=for-the-badge&logo=)
 ![](http://img.shields.io/badge/-<React/>-61DAFB?style=for-the-badge&logo=)
 ![](http://img.shields.io/badge/-<Next.js/>-000000?style=for-the-badge&logo=)
+<br/>
 ![](http://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=)
 ![](http://img.shields.io/badge/-Mysql-4479A1?style=for-the-badge&logo=)
 ![](http://img.shields.io/badge/-aws-232F3E?style=for-the-badge&logo=)
